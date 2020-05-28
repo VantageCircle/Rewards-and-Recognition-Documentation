@@ -145,9 +145,11 @@ Enter details in the Create Badge section-
 <ol>
 <li>Award Name- Enter the name of the badge. Examples of badge names can be “Pat on the back”,  “Kudos”, etc. </li>
   <li>Comments- Enter the comments which will appear at the bottom of the award displayed.</li>
+  
+  </ol>
 
 
-   **Customize**
+  **Customize**
 
 Award Image 
 
