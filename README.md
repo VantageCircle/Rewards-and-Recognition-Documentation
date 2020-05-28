@@ -130,6 +130,8 @@ There is also a search bar for you to search any user name, country, points etc.
 
 ## CONFIGURATION
 
+In this section, Admins will be able to configure, create and manage various aspects of the Rewards and Recognition platform, from creating awards to allocating budget. 
+
 <br>
 
   ### Manage Badges
