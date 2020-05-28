@@ -130,6 +130,8 @@ There is also a search bar for you to search any user name, country, points etc.
 
 ## CONFIGURATION
 
+<br>
+
   ### Manage Badges
   
   You can create badges for spot awards or recognition. These badges can be used by the users for recognition of their peers and colleagues. 
