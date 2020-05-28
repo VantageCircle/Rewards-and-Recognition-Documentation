@@ -21,6 +21,8 @@ Getting all those benefits for a manager or HR is really simple and at a click o
 
 This is the overview section of Vantage Rewards. Here you can see graphical representation of the rewards timeline, users rewarded, type of reward, department wise rewards, status, and city. 
 
+![Overview](https://user-images.githubusercontent.com/48199047/83106476-273f5c80-a0da-11ea-8058-e4390d969d95.png)
+
 On the top select the period for which you want all the data in this section to be displayed. The options are-
 1. This Month
 2. This Quarter
@@ -46,6 +48,8 @@ On top of the charts/graphs, you are also displayed the data regarding the total
 
 Here you can see the data regarding the appreciation counts. The dashboard screen will display various demographics regarding the appreciation counts. 
 
+![Appreciation](https://user-images.githubusercontent.com/48199047/83106172-a4b69d00-a0d9-11ea-901a-9c8bb1572e28.png)
+
 **Timeline**
 
 Here you can see the number of appreciation counts either monthly or weekly. The vertical axis denotes the number of appreciations and the horizontal axis denotes the period i.e. either month/week. 
@@ -62,6 +66,8 @@ This dashboard gives appreciation counts according to the badges created in the 
 ### Budget Dashboard
 
 Here you can see the data regarding the budget allocated and purchased. 
+
+![Budget](https://user-images.githubusercontent.com/48199047/83106284-d29be180-a0d9-11ea-9ae2-948660b70591.png)
 
 Here are a few sections you need to consider. 
 
@@ -94,6 +100,9 @@ For all the reports you need to select a period of dates for which you want the 
 ### Rewards-Monetary 
 
 This section shows you the complete details of all the points budget. This section is divided according to the countries. 
+
+![Monetary_report](https://user-images.githubusercontent.com/48199047/83106377-fe1ecc00-a0d9-11ea-9006-4a2102e6a77b.png)
+
 
 You get an overview of the budget purchased by your organization, the budget allocated by the Admins, the points allocated to employees and the points redemption by the end users i.e the employees.
 
