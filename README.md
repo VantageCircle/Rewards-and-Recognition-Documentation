@@ -133,8 +133,7 @@ There is also a search bar for you to search any user name, country, points etc.
 In this section, Admins will be able to configure, create and manage various aspects of the Rewards and Recognition platform, from creating awards to allocating budget. 
 
 <br>
-
-  ### Manage Badges
+### Manage Badges
   
   You can create badges for spot awards or recognition. These badges can be used by the users for recognition of their peers and colleagues. 
   
@@ -167,7 +166,6 @@ This is an optional section. You can specify the name of the group of the badge 
 **Completed**
 
 Here you can review your badge name, badge description, badge group name, and the badge image and background color. Click on the submit button to create the badge. 
-
 
 ## Manage Awards
 
