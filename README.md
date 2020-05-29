@@ -17,7 +17,7 @@ Getting all those benefits for a manager or HR is really simple and at a click o
 
 ## OVERVIEW
 
-<a href="https://vantagecircle.github.io/documentation-R-R/overview/">Overview</a>
+<a href="https://vcadmin0001.github.io/overview/">Overview</a>
 
 This is the overview section of Vantage Rewards. Here you can see graphical representation of the rewards timeline, users rewarded, type of reward, department wise rewards, status, and city. 
 
