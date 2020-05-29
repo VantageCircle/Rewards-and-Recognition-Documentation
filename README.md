@@ -136,6 +136,8 @@ In this section, Admins will be able to configure, create and manage various asp
 
 <br>
 ### Manage Badges
+
+![Manage_badges](https://user-images.githubusercontent.com/48199047/83220203-089b9d00-a190-11ea-91f8-fb421f791f37.png)
   
   You can create badges for spot awards or recognition. These badges can be used by the users for recognition of their peers and colleagues. 
   
@@ -359,14 +361,25 @@ Here the preview of the created award with all the specifications will be displa
 
 Here you can make official(not necessarily eh?) announcement which will be reflected in every employee’s feed in the portal.  You also have the option of selecting a department if you have a department-specific announcement to make. For example, a team lunch for the sales and marketing team. 
 
+![Manage_announcement](https://user-images.githubusercontent.com/48199047/83220198-05a0ac80-a190-11ea-8e8e-5e7ea478bb8b.png)
+
 Title- Enter the title or the name of the announcement. This will appear as the main header of the announcement. 
+
 Content- Enter the details of the event or the announcement. This will appear as the body of the announcement.  
+
 Select Departments- From the dropdown list, select the departments for which you want the announcement to be broadcasted.
+
 Send Email(CheckBox)- Selecting this option will send mailers to all the employees concerned about the announcement, otherwise, the announcement will appear only on the feed.
 
 ### Upload Points
 
+![Upload_points](https://user-images.githubusercontent.com/48199047/83220219-0e917e00-a190-11ea-9d0e-92fb7aa6ff71.png)
+
+
 <li>Manage Budget</li>
+
+
+![Manage_budget](https://user-images.githubusercontent.com/48199047/83220207-09ccca00-a190-11ea-8c0d-83c288c32dac.png)
 
 <li>Assign uploader and approver</li>
 
