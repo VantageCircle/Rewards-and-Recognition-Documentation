@@ -114,6 +114,8 @@ Click on the “view” button for additional details on the section
 
 This section helps you keep track of the total number of appreciation(non-monetary award) done in a selected time frame. All the sections are categorised according to departments and the departments can be further divided into various managers within the department. 
 
+![Appreciate_nonmonetary_report](https://user-images.githubusercontent.com/48199047/83219996-6e3b5980-a18f-11ea-8439-06b633612c87.png)
+
 Click on the “View Report” of any department, manager or the company itself. 
 <ul>
   <li>Select the time frame for which you want the reports for.</li>
