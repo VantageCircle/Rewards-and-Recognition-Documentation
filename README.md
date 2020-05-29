@@ -387,11 +387,54 @@ The rest of the work of approving that file will be done by the designated appro
 
 ### Manage Budget
 
-Here you can handle your budget according to your company’s needs. 
+Here you can handle your budget according to your company’s needs. You can allocate, deallocate or bulk allocate budget to your managers or departments. 
+
+
+
+**ALLOCATE BUDGET**
+
+In this particular section, as an HR admin, you will have the freedom to choose the person to whom you will allow a particular budget. This particular person will have the authority to further process and disburse the points for the employees who have received an award.
 
 ![Manage_budget](https://user-images.githubusercontent.com/48199047/83220207-09ccca00-a190-11ea-8c0d-83c288c32dac.png)
 
-<li>Assign uploader and approver</li>
+
+Select A Country- Select the country from the drop-down list.
+
+Allocate to- Select the users you want to allocate budget to. You can select multiple employees for the same. 
+
+Budget Amount- Enter the amount of budget you want to allocate.
+
+Allocate Reason- This is an optional section. You can specify comments or reasons for the allocation of the budget. For example, if you want to allocate a budget for the annual awards you can specify the same here. 
+
+Click on Allocate Budget. 
+
+**DEALLOCATE BUDGET**
+
+
+If somehow you want to revert back the allocated budget from a manager or a team leader and disburse it to someone else, then you need not worry about it. Our deallocate budget option allows you to do that.
+
+So, you don’t need to bug the developers about it and work on an interface that gives you the freedom to have control over the budget you have in hand. 
+
+
+Select A Country- Select the country from the drop-down list.
+
+
+Deallocate From- Select the users from whom you want to deallocate the budget. 
+
+Deallocate Reason- This is an optional section. You can specify comments or reasons for the deallocation of the budget. For example, if you want to deallocate a budget for the annual awards you can specify the same here. 
+
+**BULK ALLOCATE BUDGET**
+
+One of the time-saving features in the R&R platform is our bulk budget allocation where you can disburse the available points to the managers who have been assigned the budget holder role.
+
+
+
+Select A Country- Select the country from the drop-down list.
+
+Upload CSV file- Select the CSV file of all the users to whom you want to allocate the budget. 
+
+Click on the Submit button to allocate the budget.
+
 
 
 ## COMPANY
