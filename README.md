@@ -373,11 +373,21 @@ Send Email(CheckBox)- Selecting this option will send mailers to all the employe
 
 ### Upload Points
 
+Selecting and awarding points to multiple employees one at a time can become quite a hassle in your busy schedule. But there is a solution to that. 
+
 ![Upload_points](https://user-images.githubusercontent.com/48199047/83220219-0e917e00-a190-11ea-9d0e-92fb7aa6ff71.png)
 
+Select A Country- Select the country from the drop-down list.
 
-<li>Manage Budget</li>
+Upload CSV File- With our upload points feature, you can now give away points to multiple employees at just one go. As an uploader, all you need to do is upload a CSV file of the selected employees whom you will be awarded the points. And that is it. Just sit back and relax.  
 
+The rest of the work of approving that file will be done by the designated approver of the organization.
+
+
+
+### Manage Budget
+
+Here you can handle your budget according to your company’s needs. 
 
 ![Manage_budget](https://user-images.githubusercontent.com/48199047/83220207-09ccca00-a190-11ea-8c0d-83c288c32dac.png)
 
