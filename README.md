@@ -438,9 +438,13 @@ Click on the Submit button to allocate the budget.
 
 
 ## COMPANY
-<ul>
 
-<li>Manage employees</li>
+### Manage employees
+
+Here you can upload the list of your employees along with the required details in a CSV file. Once uploaded your employees can directly open the R&R portal(a.vantagecircle.com) and register. 
+
+Choose the CSV file, upload and click submit. 
+
 
 <li>Manage Department</li>
 
